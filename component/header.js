@@ -7,7 +7,7 @@ class Header extends HTMLElement{
 			<div class="container">
 				<div class="header">
 					<span class="logo">
-						<a href="./home.html">
+						<a href="home.html">
 							<svg
 								viewBox="0 0 63 20"
 								xmlns="http://www.w3.org/2000/svg"
